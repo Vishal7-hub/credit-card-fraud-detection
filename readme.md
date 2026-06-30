@@ -162,7 +162,7 @@ The saved model can be loaded later for prediction without retraining.
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/CreditCardFraudDetection.git
+https://github.com/Vishal7-hub/credit-card-fraud-detection.git
 ```
 
 Move to project folder
@@ -198,7 +198,7 @@ jupyter lab
 
 #  Author
 
-**Vishal Kumar Roy **
+**Vishal Kumar Roy**
 
 Computer Science Engineering (Artificial Intelligence)
 
