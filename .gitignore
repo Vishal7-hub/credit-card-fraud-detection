@@ -1,4 +1,23 @@
+# Jupyter
 .ipynb_checkpoints/
+
+# Dataset
 data/
-models/
+
+# Python
 __pycache__/
+*.pyc
+
+# Model files 
+models/*.pkl
+
+# VS Code
+.vscode/
+
+# Environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
